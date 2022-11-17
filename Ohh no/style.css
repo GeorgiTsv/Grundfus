@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+.flexbox-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding-top: 300px;
+}
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+    ;
+    font-size: 80px;
+    color: #E66565;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+}
+
+button {
+    background-color: #83E1EC;
+    font-family: "Open Sans", sans-serif;
+    font-size: 32px;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 30px;
+    font-weight: 600;
+}

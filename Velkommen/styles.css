@@ -1,0 +1,27 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma,
+        Geneva, Verdana, sans-serif;
+    font-size: 300px;
+    color: #E66565;
+}
+
+.container {
+    position: absolute;
+    bottom: 75px;
+    left: 75px;
+    text-align: center;
+}
+
+span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
